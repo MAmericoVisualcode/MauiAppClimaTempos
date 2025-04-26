@@ -46,37 +46,6 @@ Siga estes passos para executar o aplicativo:
 3.  **Selecione o destino:** Na barra de ferramentas do Visual Studio, selecione o dispositivo ou emulador para o qual você deseja executar o aplicativo (por exemplo, um emulador Android ou "Desktop" para Windows).
 4.  **Execute o aplicativo:** Pressione o botão "Play" (geralmente um triângulo verde) ou vá em "Debug" > "Start Debugging" (Depurar > Iniciar Depuração).
 
-## Estrutura do Projeto
-MauiAppClimaTempos/
-├── .git/
-├── .gitignore
-├── MauiAppClimaTempos/
-│   ├── App.xaml
-│   ├── App.xaml.cs
-│   ├── Controls/
-│   │   └── ... (seus controles personalizados)
-│   ├── MainPage.xaml
-│   ├── MainPage.xaml.cs
-│   ├── Models/
-│   │   ├── Category.cs
-│   │   ├── CategoryChartData.cs
-│   │   └── Tempo.cs
-│   ├── PageModels/
-│   │   └── ... (seus PageModels, se utilizando MVVM)
-│   ├── Pages/
-│   │   └── ... (suas outras páginas)
-│   ├── Platform/
-│   │   ├── Android/
-│   │   └── iOS/
-│   ├── Resources/
-│   │   ├── ... (imagens, fontes, estilos)
-│   ├── Services/
-│   │   └── DataService.cs
-│   ├── MauiAppClimaTempos.csproj
-│   └── ... (outros arquivos)
-├── MauiAppClimaTempos.sln
-└── README.md
-
 ## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma Issue ou enviar um Pull Request.
