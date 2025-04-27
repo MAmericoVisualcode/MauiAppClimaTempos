@@ -34,17 +34,6 @@ Antes de executar o aplicativo, você precisará ter o seguinte instalado em sua
 * **.NET SDK:** A versão correta do .NET SDK (atualmente .NET 9) deve estar instalada. O Visual Studio geralmente cuida disso durante a instalação das cargas de trabalho MAUI.
 * **Emulador Android ou dispositivo físico Android/Windows:** Para testar o aplicativo.
 
-## Como Executar
-
-Siga estes passos para executar o aplicativo:
-
-1.  **Clone o repositório:** Se você ainda não clonou este projeto do GitHub, faça isso usando o comando:
-    ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    ```
-2.  **Abra a solução no Visual Studio:** Navegue até a pasta do projeto (`MauiAppClimaTempos`) e abra o arquivo de solução (`.sln`).
-3.  **Selecione o destino:** Na barra de ferramentas do Visual Studio, selecione o dispositivo ou emulador para o qual você deseja executar o aplicativo (por exemplo, um emulador Android ou "Desktop" para Windows).
-4.  **Execute o aplicativo:** Pressione o botão "Play" (geralmente um triângulo verde) ou vá em "Debug" > "Start Debugging" (Depurar > Iniciar Depuração).
 
 ## Contribuição
 
